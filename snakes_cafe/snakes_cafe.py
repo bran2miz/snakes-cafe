@@ -56,7 +56,7 @@ def menuCounter():
 "Ice Cream": 0,
 "Cake": 0,
 "Pie": 0,
-"Coffee": 0,
+"CoffeeWing": 0,
 "Tea": 0,
 "Unicorn Tears": 0
 }
@@ -73,7 +73,7 @@ def menuCounter():
             print("**           Your order:           **")
             for item in list:
                 if list[item] > 0:
-                    print(item, list[item])
+                    print(f'Total {item}: {list[item]}')
         else: 
             print("Item not on Menu")
 
