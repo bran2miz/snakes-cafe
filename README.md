@@ -1,7 +1,7 @@
 # Snakes Cafe
 
 **Author**: Brandon Mizutani
-**Version**: 1.0.0 (PR URL: [PR URL](https://github.com/bran2miz/snakes-cafe/pull/1))
+**Version**: 1.0.0 (PR URL: [PR URL](https://github.com/bran2miz/snakes-cafe/pull/2))
 
 ## Overview
 
